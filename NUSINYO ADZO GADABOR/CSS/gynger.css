@@ -1,0 +1,28 @@
+.captain{
+	float: left;
+	border-style: dashed;
+}
+.interview{
+	margin-left: 200px;
+	border-left: 6px solid green;
+}
+
+
+
+.last{
+	float: right;
+	border-style: dotted;
+	border-color: green;
+	position: relative;
+	margin-top: -450px;
+
+}
+.gee{
+	margin-left: 500px;
+	padding bottom:  40px;
+	background-color:  yellow;
+
+}
+.anch{
+	margin-left: 600px;
+}

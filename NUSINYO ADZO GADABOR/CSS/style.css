@@ -1,0 +1,111 @@
+.pee{
+	color: pink;
+}
+.love{
+	color: blue;
+}
+.paa{
+	color: yellow;
+}
+.adzo{
+	color: green;
+}
+.AG{
+	width: 300px;
+	height: 350px;
+
+}
+.gynger{
+	width: 400px;
+	height: 500px;
+}
+.swaggy{
+	width: 700px;
+	height: 100px;
+}
+.gee{
+	width: 100px;
+	height: 300px;
+
+}
+.dada{
+	width: 500px;
+	height: 500px;
+}
+
+
+.nussy{
+	color: aqua;
+}
+.nee{
+	color: brown;
+}
+body{
+	margin: 500px;
+	margin left: 150px;
+	margin-top: 300px;
+
+}
+video{
+	padding: 100px;
+}
+
+input{
+	width: 150px;
+	margin-bottom: 20px;
+}
+
+p{
+	margin-right: 1000px;
+	position: bottom;
+	text-orientation: static;
+	text-align: horizontal;
+	
+}
+
+input[type=radio]{
+	margin-left: 400px;
+}
+
+
+
+mary css
+.set1{
+	text-indent: 10pt;
+	#nifty{
+		text-decoration: line-through;color: #ff8c00;
+
+	}
+}
+h1{
+	font-family: arial;font-style: italic;color: green;background: yellow;position: absolute;top: 400px;left: 20px;width: 100px;height: 100px;
+
+}
+h2{
+	font-family: courier;font-style: bold;color: yellow;background: green;position: absolute;top: 500px;left: 0px;width: 200px;height: 200px;
+}
+h3{
+	font-family: verdana;font-size: 16pt;color: white;background: blue;position: absolute;top: 300px;left: 50px;width: 300px;height: 100px;
+}
+h4{
+	font-family: comic sans MS; font-size: 20pt;color: white;background: black;position: absolute;top: 200px;left: 20px;width: 400px;height: 100px;
+}
+h5{
+	font-family: arial;color: green;font-style: bold;position: absolute;top: 100px;left: 150px;width: 500px;height: 50px;
+}
+h1{
+	font-family: arial;font-style: italic;color: green;background: yellow;position: absolute;top: 400px;left: 20px;width: 100px;height: 100px;z-index: 2;
+
+}
+h2{
+	font-family: courier;font-style: bold;color: yellow;background: green;position: absolute;top: 500px;left: 0px;width: 200px;height: 200px;z-index: 1;
+}
+h1{
+	font-family: arial;font-style: italic;color: green;background: yellow;position: absolute;top: 400px;left: 20px;width: 100px;height: 100px;z-index: 1;
+
+}
+}
+h2{
+	font-family: courier;font-style: bold;color: yellow;background: green;position: absolute;top: 500px;left: 0px;width: 200px;height: 200px;z-index: 2;
+}
+
